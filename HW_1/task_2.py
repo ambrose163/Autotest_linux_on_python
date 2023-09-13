@@ -4,6 +4,7 @@
 (их можно взять из списка string.punctuation модуля string). В этом режиме должно проверяться наличие слова в выводе.
 """
 
+
 import subprocess
 from string import punctuation
 
