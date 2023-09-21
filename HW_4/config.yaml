@@ -1,8 +1,10 @@
-folder_tst: /home/user/tst 
-folder_out: /home/user/out
-folder_ext: /home/user/folder_1
-folder_ext_2: /home/user/folder_2 #подкаталог
-file_in_ext: /home/user/ext/test.txt"
-count: 10
-stat_file: /home/user/stat.txt
-archive_type: -t
+folder_in: /home/user2/tst
+folder_out: /home/user2/out
+folder_ext:  /home/user2/folder1
+folder_ext2: /home/user2/folder2
+count: 5
+ip: 0.0.0.0
+user: user2
+passwd: "11"
+pkgname: p7zip-full
+type: 7z
